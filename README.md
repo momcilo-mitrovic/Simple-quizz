@@ -1,2 +1,2 @@
 # Simple-quizz
-Simple quizz app
+This is a pretty simple quizz game i have created, with some random questions about celebraties.
